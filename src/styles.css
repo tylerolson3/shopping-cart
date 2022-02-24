@@ -15,13 +15,11 @@ body {
 }
 
 .container {
-  border: 2px solid red;
   display: flex;
   justify-content: center;
 }
 
 .app {
-  border: 2px dashed green;
   min-width: 700px;
 }
 
