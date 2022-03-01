@@ -16,7 +16,7 @@ function Cart() {
   ));
 
   function placeOrder() {
-    setButtonText("Ordering...");
+    setButtonText("Ordering....");
     setTimeout(() => {
       setButtonText("Place Order");
       emptyCart();
